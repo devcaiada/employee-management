@@ -12,7 +12,7 @@ public class Main {
         Endereco endereco =
                 new Endereco("Rua Osíris",
                         "Comercial",
-                        "Jd. Monte Kemel");
+                        "Monte Olimpo");
 
 
         // Object Vendedor
